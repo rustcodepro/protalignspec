@@ -1,2 +1,6 @@
 # protalignspec
-alignment to spectral intensities fro deep learning 
+
+- alignment to spectral intensities for deep learning 
+
+Gaurav Sablok \
+codeprog@icloud.com
